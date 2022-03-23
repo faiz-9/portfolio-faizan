@@ -4,7 +4,7 @@ import guessWords from "./images/optimized-images/guessWords_javascript-min.PNG"
 import hbd from "./images//optimized-images/hbd_javascript-min.PNG";
 import headphones from "./images/optimized-images/headphones_frontend-min.PNG";
 import nov from "./images/optimized-images/nov_frontend-min.PNG";
-import pigGame from "./images/pigGame_javascript.PNG";
+import pigGame from "./images/optimized-images/pigGame_javascript-min.PNG";
 import store from "./images/optimized-images/store_frontend-min.PNG";
 import cms from "./images/optimized-images/cms_php-min.PNG";
 import tessitura from "./images/optimized-images/tessitura_php-min.PNG";
