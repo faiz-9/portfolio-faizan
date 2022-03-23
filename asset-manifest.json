@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/portfolio-faizan/static/css/main.e61efd56.css",
+    "main.js": "/portfolio-faizan/static/js/main.c5c78dd8.js",
+    "static/media/store_frontend-min.PNG": "/portfolio-faizan/static/media/store_frontend-min.2ad8b2866eabd7638268.PNG",
+    "static/media/tessitura_php-min.PNG": "/portfolio-faizan/static/media/tessitura_php-min.1d6b909766dc54d6596c.PNG",
+    "static/media/netflix_react-min.PNG": "/portfolio-faizan/static/media/netflix_react-min.76ddeb7668a124201599.PNG",
+    "static/media/headphones_frontend-min.PNG": "/portfolio-faizan/static/media/headphones_frontend-min.fb68cef6968ac5939404.PNG",
+    "static/media/nov_frontend-min.PNG": "/portfolio-faizan/static/media/nov_frontend-min.a296846e81767e5e7bd2.PNG",
+    "static/media/profile.png": "/portfolio-faizan/static/media/profile.c477c1c27e2bab5365b7.png",
+    "static/media/guessWords_javascript-min.PNG": "/portfolio-faizan/static/media/guessWords_javascript-min.5b5707b296749e7aa62a.PNG",
+    "static/media/reactWebsiteTemplate_react-min.PNG": "/portfolio-faizan/static/media/reactWebsiteTemplate_react-min.ae18153a18e26c7874e5.PNG",
+    "static/media/pigGame_javascript-min.PNG": "/portfolio-faizan/static/media/pigGame_javascript-min.67d9c986b4ec89fd6577.PNG",
+    "static/media/room_frontend-min.PNG": "/portfolio-faizan/static/media/room_frontend-min.7a5b751044e5341f821b.PNG",
+    "static/media/redux-shop-min.PNG": "/portfolio-faizan/static/media/redux-shop-min.9d37bcea4150e5fd7be9.PNG",
+    "static/media/hbd_javascript-min.PNG": "/portfolio-faizan/static/media/hbd_javascript-min.3cf5418fd7737e3b9f9f.PNG",
+    "static/media/sunnyside_frontend-min.PNG": "/portfolio-faizan/static/media/sunnyside_frontend-min.af29369011ba968b9bbc.PNG",
+    "static/media/githubApi_react-min.PNG": "/portfolio-faizan/static/media/githubApi_react-min.32a01175b7df8b4e1821.PNG",
+    "static/media/restaurant-min.PNG": "/portfolio-faizan/static/media/restaurant-min.6752ef9a668fb0758ea4.PNG",
+    "static/media/ajaxFilter_php-min.PNG": "/portfolio-faizan/static/media/ajaxFilter_php-min.050a8f61ab3d06dbdaad.PNG",
+    "static/media/profile.jfif": "/portfolio-faizan/static/media/profile.272eee723af6667e6adf.jfif",
+    "static/media/DOM_manipulation_javascript-min.PNG": "/portfolio-faizan/static/media/DOM_manipulation_javascript-min.6caacbd83919413d5ea5.PNG",
+    "static/media/nurture-template-min.PNG": "/portfolio-faizan/static/media/nurture-template-min.9ebfa2f364a77c0fc5e5.PNG",
+    "static/media/scoresight-min.PNG": "/portfolio-faizan/static/media/scoresight-min.cbace6aa0bc798e3d335.PNG",
+    "static/media/cms_php-min.PNG": "/portfolio-faizan/static/media/cms_php-min.7091fc85bebeef6d0616.PNG",
+    "static/media/covid19API_javascript-min.PNG": "/portfolio-faizan/static/media/covid19API_javascript-min.995f3030605b0a1ffdce.PNG",
+    "static/media/calorie-min.PNG": "/portfolio-faizan/static/media/calorie-min.ab06908a73b90b49ba1c.PNG",
+    "static/media/ajax_form_php-min.PNG": "/portfolio-faizan/static/media/ajax_form_php-min.f503c1d32559075ca10b.PNG",
+    "static/media/book-store-min.PNG": "/portfolio-faizan/static/media/book-store-min.8c5cf3cbe1690bc628be.PNG",
+    "static/media/notes_app_javascript-min.PNG": "/portfolio-faizan/static/media/notes_app_javascript-min.e9d16260d57a9911f12c.PNG",
+    "static/media/stopwatch-min.PNG": "/portfolio-faizan/static/media/stopwatch-min.d683a0e5df182e4ede00.PNG",
+    "static/media/todo-app-min.PNG": "/portfolio-faizan/static/media/todo-app-min.fe7e8292823980db6e0b.PNG",
+    "index.html": "/portfolio-faizan/index.html",
+    "static/media/icon-close.svg": "/portfolio-faizan/static/media/icon-close.bbbbb0069bb8a015e77966ccb00bf3cd.svg",
+    "static/media/icon-hamburger.svg": "/portfolio-faizan/static/media/icon-hamburger.5153cb809501d4309c231954bc0f9ec2.svg",
+    "main.e61efd56.css.map": "/portfolio-faizan/static/css/main.e61efd56.css.map",
+    "main.c5c78dd8.js.map": "/portfolio-faizan/static/js/main.c5c78dd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e61efd56.css",
+    "static/js/main.c5c78dd8.js"
+  ]
+}
