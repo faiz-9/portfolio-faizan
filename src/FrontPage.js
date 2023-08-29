@@ -42,26 +42,27 @@ function FrontPage(props) {
               <span className="cursor">&nbsp;</span>
             </p>
             <p>
-              I am currently pursuing Btech CSE, 4th Year. I have worked as an
-              intern for different companies. Find my Resume{" "}
-              <span
-                style={{
-                  cursor: "pointer",
-                }}
-              />
-              <a
-                style={{
-                  textDecoration: "none",
-                  color: "#962d2d",
-                  color: "#962d2d",
-                  fontWeight: "bolder",
-                }}
-                href="https://resume.io/r/EHyxz65GJ"
-                target="_blank"
-              >
-                Here
-              </a>
-              <span />
+              // I am currently pursuing Btech CSE, 4th Year. I have worked as an
+              // intern for different companies. Find my Resume{" "}
+              // <span
+              //   style={{
+              //     cursor: "pointer",
+              //   }}
+              // />
+              // <a
+              //   style={{
+              //     textDecoration: "none",
+              //     color: "#962d2d",
+              //     color: "#962d2d",
+              //     fontWeight: "bolder",
+              //   }}
+              //   href="https://resume.io/r/EHyxz65GJ"
+              //   target="_blank"
+              // >
+              //   Here
+              // </a>
+              // <span />
+            I completed my graduation in Btech Computer Science and Engineering in 2022, and I am currently working as a Frontend Developer.
               <br />
               <span className="quote">
                 “I believe that stripping the website down to the basics and
